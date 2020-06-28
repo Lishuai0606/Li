@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <p>master的代码</p>
+    <p>dev的代码</p>
   </div>
 </template>
 
