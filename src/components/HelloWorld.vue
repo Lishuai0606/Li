@@ -2,7 +2,9 @@
   <div class="hello">
     <p>
       你是谁
-      <samp>我是谁</samp>
+      <samp>我是谁
+        <samp>你有是说</samp>
+      </samp>
     </p>
   </div>
 </template>
