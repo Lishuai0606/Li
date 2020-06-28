@@ -1,13 +1,6 @@
 <template>
   <div class="hello">
-    <p>
-      你是谁
-      <samp>我是谁
-        <samp>你有是说</samp>
-      </samp>
-    </p>
-    <p>master上的代码</p>
-    <p>dev上的代码</p>
+    <p>master的代码</p>
   </div>
 </template>
 
