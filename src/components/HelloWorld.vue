@@ -1,8 +1,6 @@
 <template>
   <div class="hello">
-    <p>李帅又又上传了</p>
-    <p>李帅又上传</p>
-    <p>李帅上传</p>
+    
   </div>
 </template>
 
