@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <p>从新开始</p>
+    <p>李帅</p>
   </div>
 </template>
 
