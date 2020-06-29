@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    
+    <p>从新开始</p>
   </div>
 </template>
 
