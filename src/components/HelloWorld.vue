@@ -1,9 +1,6 @@
 <template>
   <div class="hello">
-    <p>master的代码</p>
-    <p>dev的代码</p>
-    <p>master的代码2</p>
-    <p>dev的代码2</p>
+    <p>李帅又上传了</p>
   </div>
 </template>
 
